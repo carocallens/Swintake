@@ -10,5 +10,5 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- script: dotnet build SwinTake/BackEnd/Swintake/Swintake/SwinTake.csproj --configuration $(buildConfiguration)
+- script: dotnet build Swintake/BackEnd/Swintake/SwinTake/SwinTake.csproj --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'

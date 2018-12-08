@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinTake", "SwinTake\SwinTake.csproj", "{5832D42C-C9AA-4796-83A2-0BA7A3CE1ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5832D42C-C9AA-4796-83A2-0BA7A3CE1ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5832D42C-C9AA-4796-83A2-0BA7A3CE1ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5832D42C-C9AA-4796-83A2-0BA7A3CE1ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5832D42C-C9AA-4796-83A2-0BA7A3CE1ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B06FE4-A8FD-4E08-9E7E-BED8D32A1B56}
+	EndGlobalSection
+EndGlobal
